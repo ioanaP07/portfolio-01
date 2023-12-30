@@ -1,0 +1,18 @@
+html {
+    background-color: black;
+    font-size: 24px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    border: dotted 5px red;
+    border-radius: 10px;
+}
+
+body {
+    background-color: khaki;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+    border: dotted 5px black;
+    border-radius: 10px;
+}
